@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FuncionesVariasTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-10-08T03:13:59" hostname="DESKTOP-HGC0VE1" time="0.088">
+  <properties/>
+  <testcase name="esParCeroTest()" classname="FuncionesVariasTest" time="0.056"/>
+  <testcase name="esDosPrimoTest()" classname="FuncionesVariasTest" time="0.001"/>
+  <testcase name="esPrimoNegativoTest()" classname="FuncionesVariasTest" time="0.002"/>
+  <testcase name="esPrimoAltoTest()" classname="FuncionesVariasTest" time="0.001"/>
+  <testcase name="esOncePrimoTest()" classname="FuncionesVariasTest" time="0.0"/>
+  <testcase name="esParConNegativoImparParTest()" classname="FuncionesVariasTest" time="0.001"/>
+  <testcase name="esParConPositivoParTest()" classname="FuncionesVariasTest" time="0.002"/>
+  <testcase name="esParConNegativoParTest()" classname="FuncionesVariasTest" time="0.001"/>
+  <testcase name="factorialPositivoTest()" classname="FuncionesVariasTest" time="0.004"/>
+  <testcase name="factorialNegativoTest()" classname="FuncionesVariasTest" time="0.001"/>
+  <testcase name="factorialDeCeroTest()" classname="FuncionesVariasTest" time="0.0"/>
+  <testcase name="factorialDeUnoTest()" classname="FuncionesVariasTest" time="0.001"/>
+  <testcase name="esPrimoAltoNoPrimoTest()" classname="FuncionesVariasTest" time="0.001"/>
+  <testcase name="esParConPositivoImparParTest()" classname="FuncionesVariasTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
